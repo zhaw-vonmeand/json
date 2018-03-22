@@ -1,5 +1,7 @@
+[
 {
     "$class": "org.ba.tracenet.JoinCertificate",
     "certificate": "resource:org.ba.tracenet.Certificate#CERT_001",
     "rohstoff": "resource:org.ba.tracenet.Rohstoff#ROH_001"
   }
+]
